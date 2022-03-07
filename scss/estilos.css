@@ -540,7 +540,7 @@ body {
   width: 60px;
   height: 60px;
   bottom: 40px;
-  right: 40px;
+  left: 40px;
   background-color: #25d366;
   color: #FFF;
   border-radius: 50px;
@@ -559,7 +559,7 @@ body {
   width: 60px;
   height: 60px;
   bottom: 110px;
-  right: 40px;
+  left: 40px;
   background-color: #0398dd;
   color: #FFF;
   border-radius: 50px;

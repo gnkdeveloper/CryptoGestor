@@ -309,6 +309,8 @@ body {
 
 .boxContacto {
   margin-bottom: 20px;
+  margin-left: 60px;
+  padding-top: 15px;
 }
 
 .tittleContacto {
@@ -1046,5 +1048,9 @@ body {
 .textSpecialContacto {
   font-family: "Rubik", sans-serif;
   font-size: small;
+}
+
+.container {
+  padding-left: 50px;
 }
 /*# sourceMappingURL=estilos.css.map */
